@@ -11,12 +11,12 @@ body {
 }
 
 nav {
-    background-color: rgb(72, 185, 146);
+    background-color: rgb(133, 216, 187);
     padding: 20px;
     border-bottom: 5px solid white;
     text-align: center;
     font-size: 2em;
-    color: rgb(54, 151, 155);
+    color: rgb(57, 133, 106);
 }
 
 main {
@@ -28,7 +28,7 @@ main {
 
 footer {
     text-align: center;
-    background-color: rgb(206, 238, 227);
+    background-color: rgb(133, 216, 187);
     padding: 20px;
     border-top: 5px solid white;
 }
